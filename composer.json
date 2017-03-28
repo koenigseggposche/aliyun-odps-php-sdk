@@ -1,5 +1,16 @@
 {
-  "require": {
-    "phpunit/phpunit": "4.8.*"
-  }
+    "name": "aliyun/odps",
+    "description": "Php Aliyun Odps Sdk",
+    "keywords": ["odps", "aliyun", "max compute"],
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "4.8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    }
 }
