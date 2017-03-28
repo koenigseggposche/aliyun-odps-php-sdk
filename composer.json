@@ -1,5 +1,5 @@
 {
-    "name": "aliyun/odps",
+    "name": "koenigseggposche/odps",
     "description": "Php Aliyun Odps Sdk",
     "keywords": ["odps", "aliyun", "max compute"],
     "type": "library",
